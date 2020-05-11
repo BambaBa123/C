@@ -1,0 +1,8 @@
+SAlut les gars, voilà ce ue j'ai fait, je pense que l'on pourrait partir de là!
+A l'aide de script bash, j'ai automatisé la compilation des fichiers C pour ne pas à avoir à compiler à chaque fois.
+    Il suffira juste de compiler le fichier Parc.c et de l'éxécuter!
+    Au fur et à mesure que vous répondrez, des fénêtres s'ouvriront pour vous permettre 
+    de poursuivre!
+
+
+    NB: J'ai juste commencer l'ajout_machine
